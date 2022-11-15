@@ -1,10 +1,9 @@
 // DO NOT DELETE
 
 import * as React from 'react'
-import {useState , useEffect} from 'react'
 import './App.css'
-import {Header} from './Header.js'
-import {Description} from './Description.js'
+import {Header} from './Header'
+import {Description} from './Description'
 import { DogListContainer } from './DogListContainer'
 
 /**
